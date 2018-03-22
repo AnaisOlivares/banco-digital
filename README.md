@@ -1,6 +1,10 @@
 # Banco del Pais 100% Digital
+Se desarrolla a solicitud del Banco del País una serie de actividades, las cuales tienen como fin digitalizar los múltiples procesos en relación a sus clientes tanto en el rubro comercial como soporte post-venta y consultas en general.
 
-Se desarrolla a solicitud del Banco del País una serie de actividades las cuales tienen como fin digitalizar los múltiples procesos en relación a sus clientes tanto en el rubro comercial como soporte postventa y consultas en general.
+![smartmockups_jeodww5g](https://user-images.githubusercontent.com/32288883/37802767-c54e8a1e-2df9-11e8-965d-f5c4f4ad8d9f.jpeg)
+
+## Desarrollado para
+[Laboratoria](http://laboratoria.la)
 
 
 ##### [Presentación Banco 100% Digital](https://docs.google.com/presentation/d/13S7VNRAiT_xEbgn2VpVZzeyVjvLb1Hk8kFrjRDPIVE4/edit?usp=sharing "Diapositivas")
@@ -73,7 +77,8 @@ Quieren consumir productos y recibir servicios completamente alineados a sus gus
   * puedes añadir una o más cuentas, tal como instagram o facebook
 
   ### Dale un vistazo:
-    [milenibank](https://marvelapp.com/31566a4/screen/39565769)
+  [milenibank](https://marvelapp.com/31566a4/screen/39565769)
 
 
 ![milenibank](assets/docs/milenibank.jpeg)
+![smartmockups_jf33ya4c](https://user-images.githubusercontent.com/32288883/37802814-f5c4c3c0-2df9-11e8-8911-a799a5a4fa34.jpeg)
